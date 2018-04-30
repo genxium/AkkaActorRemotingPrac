@@ -1,9 +1,5 @@
 *.zip
 
-# config files
-*.conf
-*.properties
-
 # logrotate status file
 *.status
  
@@ -12,7 +8,7 @@
 
 # vim
 #
-*.swp
+*.sw*
 
 # OSX
 #
